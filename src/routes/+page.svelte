@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Имя Фамилия</title>
+    <title>Саид Сарсенгалиев</title>
 </svelte:head>
 
 <div class="container">
